@@ -8,9 +8,8 @@ Code Clinics offers a helping hand to students struggling with coding problems b
 
 ### Perquisites 🚩
 
-1. Have a WeThinkCode_ student email
-2. Have only one calender containing the word 'clinic' in your list of calendars 
-3. Have a credentials.json downloaded from google calendar console api that you and your teammates are linked to, or use the one provided in the repo [a relative link](/credentials.json)
+1. Have only one calender containing the word 'clinic' in your list of calendars 
+2. Have a credentials.json downloaded from google calendar console api that you and your teammates are linked to, or use the one provided in the repo [a relative link](/credentials.json)
 
 ---
 
@@ -130,17 +129,6 @@ Book a slot:
 python3 main_file.py --action AddSlot --date '2024-02-10' --time '10:00'
 ```
 
----
-
-
-## Contributors 👥
-
-- **Mlilo**: Team Leader 🎖️
-- **Barrows**: Data Analyst 🔍
-- **Siyanda**: System Integration 🌐
-- **Thandeka**: Data Analyst 🔍
-
----
 
 ## Support 🙌
 
